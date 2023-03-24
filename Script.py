@@ -21,7 +21,7 @@ class script(object):
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ \n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3 \n
 📡 ʜᴏ𝚜ᴛᴇᴅ ᴏɴ : 𝚅𝙿𝚂 \n
-📢 ᴜᴘᴅᴀᴛᴇ𝚜 ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/The_mr_known_bot><b></b>𝙼𝚁_𝙺𝙽𝙾𝚆𝙽</a> \n
+📢 ᴜᴘᴅᴀᴛᴇ𝚜 ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anna_bot_updates><b></b>𝙰𝚗𝚗𝚊 𝙱𝚘𝚝 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a> \n
 🌟 ᴠᴇʀ𝚜ɪᴏɴ : ᴠ 4.0\𝚗</𝚋></𝚒>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
