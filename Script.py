@@ -16,13 +16,13 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    𝙰𝙱𝙾𝚄𝚃_𝚃𝚇𝚃 = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Anna_movies_bot><b>𝙰𝚗𝚗𝚊 𝙼𝚘𝚟𝚒𝚎 𝙱𝚘𝚝</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <b>𝙰𝚗𝚗𝚊</b> \n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ \n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3 \n
-📡 ʜᴏ𝚜ᴛᴇᴅ ᴏɴ : 𝚅𝙿𝚂 \n
-📢 ᴜᴘᴅᴀᴛᴇ𝚜 ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anna_bot_updates><b></b>𝙰𝚗𝚗𝚊 𝙱𝚘𝚝 𝚄𝚙𝚍𝚊𝚝𝚎𝚜</a> \n
-🌟 ᴠᴇʀ𝚜ɪᴏɴ : ᴠ 4.0\𝚗</𝚋></𝚒>"""
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/𝚊nna_movies_bot><b>Search Bot</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <b>𝙰𝚗𝚗𝚊</b>\n
+📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : VPS\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anna_bot_updates><b></b>𝙰𝚗𝚗𝚊 𝙱𝚒𝚝𝚜</a>\n
+🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @the_mr_known_bot<b>"""
